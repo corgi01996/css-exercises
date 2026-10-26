@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+button {
+    font-size: 32px;
+    border-color: grey;
+    padding: 5px;
+}
+
+.left {
+    background-color: black;
+    color: white;
+}
+
+.right {
+    background-color: yellow;
+}
